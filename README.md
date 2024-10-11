@@ -21,7 +21,7 @@ Schoolify is an innovative and user-friendly platform designed to streamline and
 
 To see Schoolify in action, open or download the demo video:
 
-[Download the demo video](./video%20demo/demo.mp4)
+[Download the demo video](./video_demo/demo.mp4)
 
 > You can find the video in the `video demo` folder of this project.
 
